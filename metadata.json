@@ -1,0 +1,16 @@
+{
+    "title": "Mathematics: Function Notation",
+    "slug": "maths-function-notation",
+    "description": "Introduce function notation such as f(x), explain inputs and outputs, and evaluate simple examples.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 2,
+    "prerequisites": [],
+    "related": [
+        "maths-product-notation"
+    ]
+}
